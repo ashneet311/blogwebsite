@@ -17,7 +17,8 @@ function BlogDetails() {
         </Box>
       </Container>
 
-      <Footer /> {/* ✅ Add Footer at the Bottom */}
+      {/* <Footer /> ✅ Add Footer at the Bottomgit branch -M main
+ */}
     </>
   );
 }
